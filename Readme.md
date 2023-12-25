@@ -38,13 +38,13 @@ pip install -r requirements.txt
 - `annotations_txt/`: Folder to store annotation text files.
 - `annotated_images/`: Folder to store annotated images.
 - 
-![09](<readme Images\Flow chart.jpg>)
+![09](<readme Images/Flow chart.jpg>)
 ## Demostration
 ![09](<readme Images/1.png>)
 
-![09](<readme Images\2.png>)
+![09](<readme Images/2.png>)
 
-![09](<readme Images\3.png>)
+![09](<readme Images/3.png>)
 
 ## Contributors
 - Shameer Ashraf - shameerisb@gmail.com
